@@ -26,9 +26,11 @@
 <!--                          ABOUT ME                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img align="right" width="330" src="./assets/about-me.gif" alt="about me animation" />
-
 ## 🚩 &nbsp;About Me
+
+<table>
+<tr>
+<td valign="middle" width="58%">
 
 ```yaml
 name:      Vikas Gupta
@@ -51,7 +53,14 @@ philosophy: "अगर कोई काम 3 बार manually करना प
 fun_fact:  "My scripts commit more often than I do 😄"
 ```
 
-<br clear="right"/>
+</td>
+<td valign="middle" width="42%">
+
+<img width="100%" src="./assets/about-me.gif" alt="about me animation" />
+
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6600,50:FF9933,100:FFB366&height=4&section=header" width="100%" alt="divider" />
 
