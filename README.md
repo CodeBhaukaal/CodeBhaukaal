@@ -20,13 +20,13 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/orange%20line.gif" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6600,50:FF9933,100:FFB366&height=4&section=header" width="100%" alt="divider" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                          ABOUT ME                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img align="right" width="330" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
+<img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="coding gif" />
 
 ## 🚩 &nbsp;About Me
 
@@ -53,7 +53,7 @@ fun_fact:  "My scripts commit more often than I do 😄"
 
 <br clear="right"/>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/orange%20line.gif" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6600,50:FF9933,100:FFB366&height=4&section=header" width="100%" alt="divider" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         TECH STACK                             -->
@@ -70,6 +70,7 @@ fun_fact:  "My scripts commit more often than I do 😄"
 ![PHP](https://img.shields.io/badge/PHP-FF9933?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-FF9933?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-FF9933?style=for-the-badge&logo=css3&logoColor=white)
+![Go](https://img.shields.io/badge/Go-FF9933?style=for-the-badge&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-FF9933?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **Frameworks & Libraries**
@@ -91,7 +92,7 @@ fun_fact:  "My scripts commit more often than I do 😄"
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/orange%20line.gif" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6600,50:FF9933,100:FFB366&height=4&section=header" width="100%" alt="divider" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      GITHUB STATS / GRAPHS                     -->
@@ -139,14 +140,14 @@ fun_fact:  "My scripts commit more often than I do 😄"
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeBhaukaal/CodeBhaukaal/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeBhaukaal/CodeBhaukaal/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/CodeBhaukaal/CodeBhaukaal/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeBhaukaal/CodeBhaukaal/output/github-snake-dark.svg?v=saffron" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeBhaukaal/CodeBhaukaal/output/github-snake.svg?v=saffron" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/CodeBhaukaal/CodeBhaukaal/output/github-snake-dark.svg?v=saffron" />
 </picture>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/orange%20line.gif" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6600,50:FF9933,100:FFB366&height=4&section=header" width="100%" alt="divider" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      FEATURED PROJECTS                         -->
@@ -178,7 +179,7 @@ fun_fact:  "My scripts commit more often than I do 😄"
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/orange%20line.gif" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6600,50:FF9933,100:FFB366&height=4&section=header" width="100%" alt="divider" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                          CONNECT                               -->
