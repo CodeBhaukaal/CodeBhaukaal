@@ -74,30 +74,36 @@ fun_fact:  "My scripts commit more often than I do 😄"
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-FF9933?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF9933?style=for-the-badge&logo=javascript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-FF9933?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-FF9933?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FF9933?style=for-the-badge&logo=css3&logoColor=white)
-![Go](https://img.shields.io/badge/Go-FF9933?style=for-the-badge&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-FF9933?style=for-the-badge&logo=gnubash&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-FF9933?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-FF9933?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-FF9933?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/HTML5-FF9933?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-FF9933?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Go-FF9933?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Bash-FF9933?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+</p>
 
 **Frameworks & Libraries**
 
-![Selenium](https://img.shields.io/badge/Selenium-FF7722?style=for-the-badge&logo=selenium&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-FF7722?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-FF7722?style=for-the-badge&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-FF7722?style=for-the-badge&logo=pandas&logoColor=white)
-![Discord.py](https://img.shields.io/badge/Discord%20Bots-FF7722?style=for-the-badge&logo=discord&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Selenium-FF7722?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Node.js-FF7722?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Flask-FF7722?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Pandas-FF7722?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Discord%20Bots-FF7722?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Bots" />
+</p>
 
 **Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-FF6600?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-FF6600?style=for-the-badge&logo=githubactions&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-FF6600?style=for-the-badge&logo=cloudflare&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-FF6600?style=for-the-badge&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-FF6600?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-FF6600?style=for-the-badge&logo=windows&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Git-FF6600?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-FF6600?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Cloudflare-FF6600?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/MySQL-FF6600?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/VS%20Code-FF6600?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Windows-FF6600?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+</p>
 
 </div>
 
