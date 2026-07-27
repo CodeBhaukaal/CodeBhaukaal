@@ -9,6 +9,18 @@ on:
     branches:
       - main
 
+env:
+  # सारे cards के लिए एक जैसा dark theme (GitHub dark mode से match करता है)
+  DARK_CSS: |
+    svg { background: #0d1117; color: #c9d1d9; }
+    h1, h2 { color: #58a6ff !important; }
+    .field svg, .row svg { fill: #8b949e; }
+    .field, .row, section { color: #c9d1d9; }
+    :root {
+      --color-calendar-graph-day-bg: #161b22;
+      --color-calendar-graph-day-border: rgba(255,255,255,0.05);
+    }
+
 jobs:
   metrics:
     runs-on: ubuntu-latest
@@ -26,7 +38,7 @@ jobs:
           template: classic
           base: header, activity, repositories
           config_timezone: Asia/Kolkata
-          config_theme: dark
+          extras_css: ${{ env.DARK_CSS }}
 
       # 2) 3D contribution calendar (isometric graph)
       - name: Isometric calendar
@@ -37,7 +49,7 @@ jobs:
           filename: assets/metrics-isocalendar.svg
           base: ""
           config_timezone: Asia/Kolkata
-          config_theme: dark
+          extras_css: ${{ env.DARK_CSS }}
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
@@ -50,13 +62,13 @@ jobs:
           filename: assets/metrics-languages.svg
           base: ""
           config_timezone: Asia/Kolkata
-          config_theme: dark
+          extras_css: ${{ env.DARK_CSS }}
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
 
-      # 4) Coding habits / activity heatmap
+      # 4) Coding habits — कब और कैसे code होता है
       - name: Habits
         uses: lowlighter/metrics@latest
         with:
@@ -65,7 +77,7 @@ jobs:
           filename: assets/metrics-habits.svg
           base: ""
           config_timezone: Asia/Kolkata
-          config_theme: dark
+          extras_css: ${{ env.DARK_CSS }}
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14

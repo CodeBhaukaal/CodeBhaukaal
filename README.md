@@ -97,34 +97,36 @@ fun_fact:  "My scripts commit more often than I do 😄"
 
 ## 📊 &nbsp;GitHub Analytics
 
+<!-- ये सारे cards खुद के repo में generate होते हैं (metrics.yml) — इसलिए कभी down/503 नहीं होते -->
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeBhaukaal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBhaukaal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+<img width="49%" src="./assets/metrics-overview.svg" alt="GitHub Overview" />
+<img width="49%" src="./assets/metrics-languages.svg" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeBhaukaal&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=CodeBhaukaal&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" alt="GitHub Streak" />
 
 </div>
 
 <br/>
 
-### 📈 &nbsp;Contribution Activity Graph
+### 📈 &nbsp;Contribution Calendar (3D)
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CodeBhaukaal&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&area_color=1f6feb&hide_border=true&custom_title=Commits%20%26%20Activity%20-%20Last%2031%20Days" alt="Activity Graph" />
+<img width="100%" src="./assets/metrics-isocalendar.svg" alt="Isometric Contribution Calendar" />
 
 </div>
 
 <br/>
 
-### 🏆 &nbsp;Trophies
+### ⏰ &nbsp;Coding Habits
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=CodeBhaukaal&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=10" alt="Trophies" />
+<img width="100%" src="./assets/metrics-habits.svg" alt="Coding Habits" />
 
 </div>
 
