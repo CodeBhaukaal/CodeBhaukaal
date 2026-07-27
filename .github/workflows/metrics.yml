@@ -13,12 +13,17 @@ env:
   # सारे cards के लिए एक जैसा dark theme (GitHub dark mode से match करता है)
   DARK_CSS: |
     svg { background: #0d1117; color: #c9d1d9; }
-    h1, h2 { color: #58a6ff !important; }
-    .field svg, .row svg { fill: #8b949e; }
+    h1, h2 { color: #ff9933 !important; }
+    .field svg, .row svg { fill: #ff9933; }
     .field, .row, section { color: #c9d1d9; }
+    a { color: #ff9933 !important; }
     :root {
       --color-calendar-graph-day-bg: #161b22;
-      --color-calendar-graph-day-border: rgba(255,255,255,0.05);
+      --color-calendar-graph-day-border: rgba(255,153,51,0.10);
+      --color-calendar-graph-day-L1-bg: #663300;
+      --color-calendar-graph-day-L2-bg: #994c00;
+      --color-calendar-graph-day-L3-bg: #cc6600;
+      --color-calendar-graph-day-L4-bg: #ff9933;
     }
 
 jobs:
