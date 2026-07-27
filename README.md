@@ -26,7 +26,7 @@
 <!--                          ABOUT ME                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="coding gif" />
+<img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="boy coding gif" />
 
 ## 🚩 &nbsp;About Me
 
